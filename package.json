@@ -1,0 +1,33 @@
+{
+  "name": "commajs-youtube",
+  "version": "1.0.1",
+  "description": "Commajs - The WYSIWYG framework -  youtube plugin",
+  "main": "dist/commajs-youtube.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugghq/commajs-youtube.git"
+  },
+  "keywords": [
+    "wysiwyg",
+    "html",
+    "CommaJS",
+    "rich editor",
+    "editor",
+    "text",
+    "javascript",
+    "vanillajs",
+    "commajs-wysiwyg",
+    "rich editor",
+    "rich text editor",
+    "rte"
+  ],
+  "author": "Luca Rondanini",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/plugghq/commajs-youtube/issues"
+  },
+  "homepage": "https://www.commajs.com",
+  "dependencies": {
+    "commajs-core": "^1.0.0"
+  }
+}
