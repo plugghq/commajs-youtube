@@ -1,6 +1,6 @@
 {
   "name": "commajs-youtube",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "Commajs - The WYSIWYG framework -  youtube plugin",
   "main": "dist/commajs-youtube.min.js",
   "repository": {
